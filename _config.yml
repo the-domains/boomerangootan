@@ -1,14 +1,14 @@
-layout_spectrum: 0.01656984258443117
-typography_spectrum: 0.5965177586767823
+layout_spectrum: 0.35906055313535035
+typography_spectrum: 0.8853627960197628
 color:
-  brandStrength: 0.11304175690747797
-  lightness: 0.22319430927745998
-  saturation: 0.1523497903253883
-  rhythmicContrast: 0.8192237946204841
+  brandStrength: 0.1525176598224789
+  lightness: 0.027677330188453197
+  saturation: 0.8272160768974572
+  rhythmicContrast: 0.5943945939652622
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: boomerangootan
