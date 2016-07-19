@@ -1,14 +1,28 @@
-layout_spectrum: 0.35906055313535035
+name: boomerangootan
+favicon: null
+layout_spectrum: 0.89737
 typography_spectrum: 0.8853627960197628
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.1525176598224789
-  lightness: 0.027677330188453197
-  saturation: 0.8272160768974572
-  rhythmicContrast: 0.5943945939652622
   brandColors:
     - '#E6E2AF'
     - '#A7A37E'
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-name: boomerangootan
+  brandStrength: 0.1525176598224789
+  lightness: 0.027677330188453197
+  saturation: 0.8272160768974572
+  rhythmicContrast: 0.5943945939652622
+purpose: []
